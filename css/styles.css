@@ -79,6 +79,7 @@ p {
 
 .header-logo {
     padding: 24px 0 25px 0;
+    margin-right: 93px;;
     text-decoration: none;
     font-family: var(--secondary-font);
     font-weight: 700;
@@ -114,6 +115,8 @@ p {
 }
 
 .header-nav {
+    display: flex;
+    align-items: center;
     margin-left: 93px;
 }
 
